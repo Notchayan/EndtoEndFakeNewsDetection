@@ -22,8 +22,8 @@ This project demonstrates how to build an end-to-end fake news detection system 
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone https://github.com/Notchayan/EndtoEndFakeNewsDetection/
+   cd EndtoEndFakeNewsDetection
 Install the required libraries:
 
 bash
